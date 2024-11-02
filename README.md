@@ -1,4 +1,6 @@
-https://github.com/user-attachments/assets/59a1d10f-0bed-4769-8570-f0b8566c9396
+
+![git-cover](https://github.com/user-attachments/assets/7eae60a8-79a8-4fce-8671-9efd3c5d14e4)
+
 <h1 align="center">Hi 👋, I'm Jubayer Husain</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
