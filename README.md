@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Juabyer Husain</h1>
+
+<h1 align="center">Hi 👋, I'm Jua
+
+https://github.com/user-attachments/assets/59a1d10f-0bed-4769-8570-f0b8566c9396
+
+byer Husain</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayerhusain&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerhusain" /> </p>
