@@ -15,8 +15,14 @@
 - 💬 Ask me about **react vite react-router tailwind And any Component**
 
 - 📫 How to reach me **jubayerHusain360@gmail.com**
-- Portfolio Project:
-- [Live Link:](https://bd-tech-gadget.surge.sh/)
+- Some Portfolio Project:
+- [BD-TECH-Gadget Project Live Link...](https://bd-tech-gadget.surge.sh/)
+- [Dream 11 Cricket Team Project Live Link...](https://rj-assignment07.surge.sh/)
+- [Peddy-World Project Live Link...](https://assignment06peddyworld.surge.sh)
+- [Donate For Bangladesh Project Live Link...](https://jubayerhusain.github.io/Assignment-05/index.html)
+- [Rinterio Project Live Link...](https://jubayerhusain.github.io/Assignment-03/)
+- [FItness Project Live Link...](https://jubayerhusain.github.io/Assignment-no-02/)
+- [Expenses-Assistant Project Live Link](https://jubayerhusain.github.io/expenses-assistant-web-app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
