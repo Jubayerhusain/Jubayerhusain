@@ -22,7 +22,9 @@
 - [Donate For Bangladesh Project Live Link...](https://jubayerhusain.github.io/Assignment-05/index.html)
 - [Rinterio Project Live Link...](https://jubayerhusain.github.io/Assignment-03/)
 - [FItness Project Live Link...](https://jubayerhusain.github.io/Assignment-no-02/)
-- [Expenses-Assistant Project Live Link](https://jubayerhusain.github.io/expenses-assistant-web-app/)
+- [Expenses-Assistant Project Live Link...](https://jubayerhusain.github.io/expenses-assistant-web-app/)
+- [Weather App...](https://jubayerhusain.github.io/Weather-app/)
+- [Career-Launch Project Live Link..](https://jubayerhusain.github.io/Career-Launch/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
