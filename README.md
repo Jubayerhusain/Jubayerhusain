@@ -19,6 +19,7 @@
 - [BD-TECH-Gadget Project Live Link...](https://bd-tech-gadget.surge.sh/)
 - [Dream 11 Cricket Team Project Live Link...](https://rj-assignment07.surge.sh/)
 - [Peddy-World Project Live Link...](https://assignment06peddyworld.surge.sh)
+- [gaming-landing-page...](https://jubayerhusain.github.io/gaming-landing-page/)
 - [Donate For Bangladesh Project Live Link...](https://jubayerhusain.github.io/Assignment-05/index.html)
 - [Rinterio Project Live Link...](https://jubayerhusain.github.io/Assignment-03/)
 - [FItness Project Live Link...](https://jubayerhusain.github.io/Assignment-no-02/)
