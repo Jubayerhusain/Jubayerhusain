@@ -18,13 +18,14 @@
 - Some Portfolio Project:
 - [BD-TECH-Gadget Project Live Link...](https://bd-tech-gadget.surge.sh/)
 - [Dream 11 Cricket Team Project Live Link...](https://rj-assignment07.surge.sh/)
+- [Dragon News Live Link..](https://yhgfgh-e6104.web.app)
 - [Peddy-World Project Live Link...](https://assignment06peddyworld.surge.sh)
 - [gaming-landing-page...](https://jubayerhusain.github.io/gaming-landing-page/)
 - [Donate For Bangladesh Project Live Link...](https://jubayerhusain.github.io/Assignment-05/index.html)
 - [Rinterio Project Live Link...](https://jubayerhusain.github.io/Assignment-03/)
 - [FItness Project Live Link...](https://jubayerhusain.github.io/Assignment-no-02/)
 - [Expenses-Assistant Project Live Link...](https://jubayerhusain.github.io/expenses-assistant-web-app/)
-- [Weather App...](https://jubayerhusain.github.io/Weather-app/)
+- [Weather App live link...](https://jubayerhusain.github.io/Weather-app/)
 - [Career-Launch Project Live Link..](https://jubayerhusain.github.io/Career-Launch/)
 
 <h3 align="left">Connect with me:</h3>
