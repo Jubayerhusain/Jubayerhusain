@@ -19,7 +19,7 @@
 - [PathFinder Pro Project Live Link...](https://pathfinder-pro-b76a5.web.app/)
 - [BD-TECH-Gadget Project Live Link...](https://bd-tech-gadget.surge.sh/)
 - [Dream 11 Cricket Team Project Live Link...](https://rj-assignment07.surge.sh/)
-- [Dragon News Live Link..](https://yhgfgh-e6104.web.app)
+- [Dragon News Live Link..](https://jubayerhusain.github.io/dragon-news/)
 - [Peddy-World Project Live Link...](https://assignment06peddyworld.surge.sh)
 - [gaming-landing-page...](https://jubayerhusain.github.io/gaming-landing-page/)
 - [Donate For Bangladesh Project Live Link...](https://jubayerhusain.github.io/Assignment-05/index.html)
