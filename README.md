@@ -5,13 +5,6 @@
 
 ---
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jubayerhusain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubayerhusain&margin-w=15" alt="Trophies" /></a>
-</p>
-
----
-
 ### 🌱 About Me
 - 🔭 I’m currently working on **MERN Stack Projects**.  
 - 🌱 I’m sharpening my skills in **Node.js, MongoDB, and Advanced Frontend Development**.  
