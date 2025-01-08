@@ -81,17 +81,29 @@ Here’s my toolkit:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jubayerhusain&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerhusain&theme=radical" alt="GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerhusain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### ☕ Support Me
-Love my work? You can support me here:  
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jubayerHusain">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+### 🔥 Contribution Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jubayerhusain&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
   </a>
 </p>
+
+---
+
+### 📅 Coding Activity
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jubayerhusain&theme=radical" alt="Weekly Coding Activity" />
+  </a>
+</p>
+
+
