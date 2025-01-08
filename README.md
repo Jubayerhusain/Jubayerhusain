@@ -86,9 +86,10 @@ Here’s my toolkit:
 ### 🔥 Contribution Graph
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jubayerhusain&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+    <img src="https://your-deployed-domain.com/graph?username=jubayerhusain&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
   </a>
 </p>
+
 
 ---
 
