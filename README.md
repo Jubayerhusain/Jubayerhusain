@@ -81,23 +81,5 @@ Here’s my toolkit:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jubayerhusain&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🔥 Contribution Graph
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://your-deployed-domain.com/graph?username=jubayerhusain&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-</p>
-
-
----
-
-### 📅 Coding Activity
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jubayerhusain&theme=radical" alt="Weekly Coding Activity" />
-  </a>
-</p>
 
 
