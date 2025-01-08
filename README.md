@@ -16,19 +16,47 @@
 
 ### 🚀 Portfolio Highlights
 Here are some of my favorite projects:  
-- 🌟 [PathFinder Pro](https://pathfinder-pro-b76a5.web.app/)  
-- 💻 [BD-Tech-Gadget](https://bd-tech-gadget.surge.sh/)  
-- 🏏 [Dream 11 Cricket Team](https://rj-assignment07.surge.sh/)  
-- 🔥 [Dragon News](https://jubayerhusain.github.io/dragon-news/)  
-- 🌍 [Peddy World](https://assignment06peddyworld.surge.sh)  
-- 🎮 [Gaming Landing Page](https://jubayerhusain.github.io/gaming-landing-page/)  
-- ❤️ [Donate For Bangladesh](https://jubayerhusain.github.io/Assignment-05/index.html)  
-- 🏠 [Rinterio Project](https://jubayerhusain.github.io/Assignment-03/)  
-- 🏋️ [Fitness App](https://jubayerhusain.github.io/Assignment-no-02/)  
-- 💰 [Expenses Assistant](https://jubayerhusain.github.io/expenses-assistant-web-app/)  
-- ☁️ [Weather App](https://jubayerhusain.github.io/Weather-app/)  
-- 💼 [Career Launch](https://jubayerhusain.github.io/Career-Launch/)  
+1. 📚 **[Tutorsphere](https://turtorsphere.web.app/)**  
+   A modern educational platform for learners and educators.
 
+2. 🏢 **[Equipify](https://equipify-603ef.web.app/)**  
+   Comprehensive equipment management system for organizations.
+
+3. 🌟 **[PathFinder Pro](https://pathfinder-pro-b76a5.web.app/)**  
+   Personalized career guidance platform for students and professionals.
+
+4. 💻 **[BD-Tech-Gadget](https://bd-tech-gadget.surge.sh/)**  
+   E-commerce platform tailored for technology enthusiasts.
+
+5. 🏏 **[Dream 11 Cricket Team](https://rj-assignment07.surge.sh/)**  
+   Fantasy cricket team-building application for sports lovers.
+
+6. 🔥 **[Dragon News](https://jubayerhusain.github.io/dragon-news/)**  
+   News portal showcasing the latest headlines with an intuitive interface.
+
+7. 🌍 **[Peddy World](https://assignment06peddyworld.surge.sh/)**  
+   Educational site for discovering amazing facts about the world.
+
+8. 🎮 **[Gaming Landing Page](https://jubayerhusain.github.io/gaming-landing-page/)**  
+   Attractive landing page for gaming enthusiasts.
+
+9. ❤️ **[Donate For Bangladesh](https://jubayerhusain.github.io/Assignment-05/index.html)**  
+   A campaign platform encouraging donations for a better Bangladesh.
+
+10. 🏠 **[Rinterio Project](https://jubayerhusain.github.io/Assignment-03/)**  
+    Real estate landing page for modern property solutions.
+
+11. 🏋️ **[Fitness App](https://jubayerhusain.github.io/Assignment-no-02/)**  
+    A web app designed to track and motivate fitness goals.
+
+12. 💰 **[Expenses Assistant](https://jubayerhusain.github.io/expenses-assistant-web-app/)**  
+    Simple and effective expense-tracking web app.
+
+13. ☁️ **[Weather App](https://jubayerhusain.github.io/Weather-app/)**  
+    An elegant tool to check the latest weather updates.
+
+14. 💼 **[Career Launch](https://jubayerhusain.github.io/Career-Launch/)**  
+    Helping individuals kickstart their dream careers.
 ---
 
 ### 🤝 Connect with Me
