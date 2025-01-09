@@ -62,13 +62,10 @@ Here are some of my favorite projects:
 ### 🤝 Connect with Me
 Find me on these platforms:  
 <p align="left">
-  <a href="https://dev.to/jubayer" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/jubayer-husain" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/jubayer-husain" target="_blank">
+  <a href="https://www.facebook.com/jubayer.husain.627354" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
