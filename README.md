@@ -10,7 +10,7 @@
 - 🌱 I’m sharpening my skills in **Node.js, MongoDB, and Advanced Frontend Development**.  
 - 💬 Feel free to ask me about **React, Vite, Tailwind CSS, and Component Design**.  
 - 📫 Reach me at **jubayerhusain360@gmail.com**
-- 🔥 Visite My Portfolio **jubayer-husain-v2-eta.vercel.app**
+- 🔥 Visite My Portfolio: **(https://jubayer-husain-v2-eta.vercel.app/)**
 
 ---
 
