@@ -1,6 +1,6 @@
 ![GitHub Cover](https://i.ibb.co.com/27sB89b0/Orange-Blue-Modern-Digital-Marketing-Agency-Banner.png)
 
-<h1 align="center">Hi 👋, I'm Jubayer Husain</h1>
+<h1 align="center">Hi, I'm Jubayer Husain</h1>
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
 ---
