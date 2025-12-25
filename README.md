@@ -5,65 +5,65 @@
 
 ---
 
-### 🌱 About Me
-- 🔭 I’m currently working on **MERN Stack Projects**.  
-- 🌱 I’m sharpening my skills in **Node.js, MongoDB, and Advanced Frontend Development**.  
-- 💬 Feel free to ask me about **React, Vite, Tailwind CSS, and Component Design**.  
-- 📫 Reach me at **jubayerhusain360@gmail.com**
-- 🔥 Visite My Portfolio: **(https://jubayer-husain-v2-eta.vercel.app/)**
+###  About Me
+-  I’m currently working on **MERN Stack Projects**.  
+-  I’m sharpening my skills in **Node.js, MongoDB, and Advanced Frontend Development**.  
+-  Feel free to ask me about **React, Vite, Tailwind CSS, and Component Design**.  
+-  Reach me at **jubayerhusain360@gmail.com**
+-  Visite My Portfolio: **(https://jubayer-husain-v2-eta.vercel.app/)**
 
 ---
 
-### 🚀 Portfolio Highlights
+###  Portfolio Highlights
 Here are some of my favorite projects:  
 
- 📚 **[Shipmate](https://shipmate-a7377.web.app/)**  
+  **[Shipmate](https://shipmate-a7377.web.app/)**  
    Parcel Management System — a dynamic and feature-rich MERN stack application designed to streamline parcel delivery operations.
    
-📚 **[Tutorsphere](https://turtorsphere.web.app/)**  
+ **[Tutorsphere](https://turtorsphere.web.app/)**  
    A modern educational platform for learners and educators.
 
-🏢 **[Equipify](https://equipify-603ef.web.app/)**  
+ **[Equipify](https://equipify-603ef.web.app/)**  
    Comprehensive equipment management system for organizations.
 
-🌟 **[PathFinder Pro](https://pathfinder-pro-b76a5.web.app/)**  
+ **[PathFinder Pro](https://pathfinder-pro-b76a5.web.app/)**  
    Personalized career guidance platform for students and professionals.
 
-💻 **[BD-Tech-Gadget](https://bd-tech-gadget.surge.sh/)**  
+ **[BD-Tech-Gadget](https://bd-tech-gadget.surge.sh/)**  
    E-commerce platform tailored for technology enthusiasts.
 
-🏏 **[Dream 11 Cricket Team](https://rj-assignment07.surge.sh/)**  
+ **[Dream 11 Cricket Team](https://rj-assignment07.surge.sh/)**  
    Fantasy cricket team-building application for sports lovers.
 
-🔥 **[Dragon News](https://jubayerhusain.github.io/dragon-news/)**  
+ **[Dragon News](https://jubayerhusain.github.io/dragon-news/)**  
    News portal showcasing the latest headlines with an intuitive interface.
 
-🌍 **[Peddy World](https://assignment06peddyworld.surge.sh/)**  
+ **[Peddy World](https://assignment06peddyworld.surge.sh/)**  
    Educational site for discovering amazing facts about the world.
 
-🎮 **[Gaming Landing Page](https://jubayerhusain.github.io/gaming-landing-page/)**  
+ **[Gaming Landing Page](https://jubayerhusain.github.io/gaming-landing-page/)**  
    Attractive landing page for gaming enthusiasts.
 
-❤️ **[Donate For Bangladesh](https://jubayerhusain.github.io/Assignment-05/index.html)**  
+ **[Donate For Bangladesh](https://jubayerhusain.github.io/Assignment-05/index.html)**  
    A campaign platform encouraging donations for a better Bangladesh.
 
-🏠 **[Rinterio Project](https://jubayerhusain.github.io/Assignment-03/)**  
+ **[Rinterio Project](https://jubayerhusain.github.io/Assignment-03/)**  
     Real estate landing page for modern property solutions.
 
-🏋️ **[Fitness App](https://jubayerhusain.github.io/Assignment-no-02/)**  
+ **[Fitness App](https://jubayerhusain.github.io/Assignment-no-02/)**  
     A web app designed to track and motivate fitness goals.
 
-💰 **[Expenses Assistant](https://jubayerhusain.github.io/expenses-assistant-web-app/)**  
+ **[Expenses Assistant](https://jubayerhusain.github.io/expenses-assistant-web-app/)**  
     Simple and effective expense-tracking web app.
 
-☁️ **[Weather App](https://jubayerhusain.github.io/Weather-app/)**  
+ **[Weather App](https://jubayerhusain.github.io/Weather-app/)**  
     An elegant tool to check the latest weather updates.
 
-💼 **[Career Launch](https://jubayerhusain.github.io/Career-Launch/)**  
+ **[Career Launch](https://jubayerhusain.github.io/Career-Launch/)**  
     Helping individuals kickstart their dream careers.
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 Find me on these platforms:  
 <p align="left">
   <a href="https://linkedin.com/in/jubayer-husain" target="_blank">
@@ -76,7 +76,7 @@ Find me on these platforms:
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 Here’s my toolkit:  
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -104,7 +104,7 @@ Here’s my toolkit:
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jubayerhusain&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerhusain&theme=radical" alt="GitHub Streaks" />
